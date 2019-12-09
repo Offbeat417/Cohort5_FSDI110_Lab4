@@ -1,0 +1,15 @@
+h1{
+    color:rgb(84, 84, 189);
+    text-align: center;
+
+}
+
+.register-form{
+    border:1px solid rgb(24, 183, 223);
+    padding: 20px 35px;
+    background-color:#e6e6e6;
+}
+
+label{
+    text-align: right;
+}
